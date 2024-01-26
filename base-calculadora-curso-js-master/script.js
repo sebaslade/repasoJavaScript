@@ -14,3 +14,4 @@ function calcular(){
     const resultado = eval(valorPantalla)
     document.getElementById('pantalla').value = resultado
 }
+
